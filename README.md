@@ -11,7 +11,7 @@
 
 - 🤝 I’m looking for help with **Java Spring Boot for the backend architecture.**
 
-- 👨‍💻 All of my projects are available at [https://github.com/shwetalbodkhe79](https://github.com/shwetalbodkhe79)
+- 👨‍💻 All of my projects are available at https://github.com/shwetalbodkhe79
 
 - 📫 How to reach me **shwetalbodkhe77@gmail.com**
 
